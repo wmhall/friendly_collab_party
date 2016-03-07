@@ -1,10 +1,3 @@
 # friendly_collab_party
 
-![](https://media.giphy.com/media/ykUYsNYRvrprq/giphy.gif)
-
-#Who
-
-#When
-
-#Why
-
+This is the README for the friendly collab party, and it's awesome.
