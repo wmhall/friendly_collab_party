@@ -8,7 +8,5 @@ All the cool kids
 
 #When
 
-March 07, 2016
-
 #Why
 
